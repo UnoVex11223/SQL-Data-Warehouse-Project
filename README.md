@@ -1,4 +1,4 @@
-## High Level Architecture
+<h1 align="center>This Project Involves</h2>
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/67a18b8c-fae8-4f76-8975-a7a7f99f5a03)
 
@@ -8,7 +8,6 @@
 
 <br>
 
-<h2 align="center">High Level Architecture</h2>
 
 <h2 align="center">This Project Involves</h2>
 
