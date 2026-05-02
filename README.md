@@ -9,7 +9,11 @@
 3. Gold Layer - This is where Business Ready data lives and is modeled out as star schema for downstream usecases like ML and Reporting.
 
 
-                                               This project involves:
+
+
+
+
+                                 This project involves:
 
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 
