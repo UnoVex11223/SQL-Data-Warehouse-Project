@@ -1,4 +1,4 @@
-                                            ##High Level Architecture
+                                            High Level Architecture
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/67a18b8c-fae8-4f76-8975-a7a7f99f5a03)
 
@@ -9,7 +9,7 @@
 <br>
 
 
-                                           ##This Project Involves
+                                           This Project Involves
 
 - **Data Architecture:** Designing a Modern Data Warehouse using Medallion Architecture (Bronze, Silver, and Gold layers).
 - **ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.
