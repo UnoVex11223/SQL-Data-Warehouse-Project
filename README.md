@@ -9,3 +9,11 @@ For this project I followed along with the youtuber Baraa to built out a modern 
 2. Silver Layer - Intermediary layer where data transforamtions and cleansing take place to prepare data for analysis.
 
 3. Gold Layer - This is where Business Ready data lives and is modeled out as star schema for downstream usecases like ML and Reporting.
+
+
+This project involves:
+
+Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
